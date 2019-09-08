@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "480689145180",
+    "firebase_url": "https://notify-hari777.firebaseio.com",
+    "project_id": "notify-hari777",
+    "storage_bucket": "notify-hari777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480689145180:android:921a487851df7d9233ad99",
+        "android_client_info": {
+          "package_name": "com.greathari.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480689145180-i7jpf6eghqthbnm2n0sr3s9rvg0idl9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greathari.notify",
+            "certificate_hash": "81c2d83d636491c5143c45222d2409a11edc1501"
+          }
+        },
+        {
+          "client_id": "480689145180-5b6p01u230l4hqpn16kfl0aup7qnoeml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjrWJD42ctxr7lm5ipC7HJHyr1p6oWgq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480689145180-5b6p01u230l4hqpn16kfl0aup7qnoeml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
